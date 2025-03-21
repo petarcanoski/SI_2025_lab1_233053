@@ -37,7 +37,7 @@ class Task {
     public Priority getPriority() {
         return priority;
     }
-
+		GitRepositort
     public String getCategory() {
         return category;
     }
