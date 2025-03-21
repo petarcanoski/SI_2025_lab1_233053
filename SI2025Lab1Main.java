@@ -4,6 +4,8 @@ enum Priority {
     LOW, MEDIUM, HIGH
 }
 
+fixedbug1
+
 class Task {
     private String name;
     private boolean isCompleted;
