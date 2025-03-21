@@ -4,6 +4,7 @@ enum Priority {
     LOW, MEDIUM, HIGH
 }
 
+
 fixedbug1
 
 class Task {
@@ -18,6 +19,8 @@ class Task {
         this.category = category;
         this.isCompleted = false;
     }
+
+	fixed bug2
 
     public void complete() {
         this.isCompleted = true;
