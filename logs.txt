@@ -1,0 +1,19 @@
+* 50056a4 (HEAD -> bug3, origin/bug3) Fixed New Bug
+*   277c824 (origin/master, origin/HEAD, master) Merge branch 'master' of github.com:petarcanoski/SI_2025_lab1_233053 into bug3
+|\
+| *   4d23459 Merge pull request #11 from petarcanoski/bug2
+| |\
+| | *   37efdb8 Merge branch 'master' into bug2
+| | |\
+| | |/
+| |/|
+| * |   1db2c56 Merge pull request #10 from petarcanoski/bug1
+| |\ \
+| | * | 3674a7a (origin/bug1, bug1) Fixed Bug1
+| |/ /
+| | * d1fd4f4 (origin/bug2, bug2) Fixed Bug2
+| |/
+* / ecc781b Fixed Bug3
+|/
+* ba280e9 Add Starter Code
+* b5b822b Initial Commit
