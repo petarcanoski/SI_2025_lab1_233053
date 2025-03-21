@@ -28,7 +28,7 @@ class Task {
     public boolean isCompleted() {
         return isCompleted;
     }
-
+	Petar Canoski
     public Priority getPriority() {
         return priority;
     }
