@@ -4,6 +4,7 @@ enum Priority {
     LOW, MEDIUM, HIGH
 }
 
+
 class Task {
     private String name;
     private boolean isCompleted;
@@ -16,6 +17,8 @@ class Task {
         this.category = category;
         this.isCompleted = false;
     }
+
+	fixed bug2
 
     public void complete() {
         this.isCompleted = true;
